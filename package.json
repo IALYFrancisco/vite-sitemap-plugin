@@ -1,6 +1,6 @@
 {
   "name": "vite-sitemap-plugin",
-  "version": "1.17.0",
+  "version": "1.20.0",
   "description": "Vite plugin for generating sitemaps",
   "keywords": [
     "vite",
@@ -10,13 +10,13 @@
   ],
   "author": "Saeed Hosan",
   "license": "MIT",
-  "homepage": "https://github.com/saeedhosan/vite-sitemap#readme",
+  "homepage": "https://github.com/saeedhosan/vite-sitemap-plugin#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saeedhosan/vite-sitemap.git"
+    "url": "git+https://github.com/saeedhosan/vite-sitemap-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/saeedhosan/vite-sitemap/issues"
+    "url": "https://github.com/saeedhosan/vite-sitemap-plugin/issues"
   },
   "scripts": {
     "build": "tsc"

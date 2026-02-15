@@ -1,6 +1,6 @@
 [![npm version](https://badgen.net/npm/v/vite-sitemap-plugin)](https://www.npmjs.com/package/vite-sitemap-plugin)
 [![monthly downloads](https://badgen.net/npm/dm/vite-sitemap-plugin)](https://www.npmjs.com/package/vite-sitemap-plugin)
-[![types](https://badgen.net/npm/types/vite-sitemap-plugin)](https://github.com/saeedhosan/vite-sitemap-plugin/blob/main/src/types.ts)
+[![types](https://badgen.net/npm/types/vite-sitemap-plugin)](https://github.com/saeedhosan/vite-sitemap-plugin/blob/main/src/index.ts)
 [![license](https://badgen.net/npm/license/vite-sitemap-plugin)](https://github.com/saeedhosan/vite-sitemap-plugin/blob/main/LICENSE.md)
 
 ## Introduction
